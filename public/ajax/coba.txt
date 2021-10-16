@@ -1,0 +1,2 @@
+C:\laragon\www\belajar-laravel\public\ajax\coba.txt
+public\ajax\coba.txt
